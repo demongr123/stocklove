@@ -1,0 +1,14 @@
+{
+  "name": "sellauth-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Inventory Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
